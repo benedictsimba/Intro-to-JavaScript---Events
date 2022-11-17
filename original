@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<title></title>
+
+<head>
+    <script>
+        function sayHi() {
+            alert("Hey you")
+        }
+    </script>
+</head>
+
+<body>
+    <input type="button" onclick="sayHi();" value="activate onclick event" />
+</body>
+
+</html>
